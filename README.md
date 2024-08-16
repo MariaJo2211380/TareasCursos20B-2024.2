@@ -3,6 +3,7 @@ Este repositorio está dedicado a la materia de Mecánica Clásica del semestre 
 Documentos con las soluciones para tareas y asignaciones. Y códigos con sus respectivos datos y resultados. Este repositorio ha sido desarrollado por el grupo de estudiantes:
 
 Jurianny Andica - 2210703
+
 María José Pérez - 2211380
 
 ----------------------------------------------------------------------------------------------------------
