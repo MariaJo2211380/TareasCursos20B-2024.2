@@ -6,4 +6,4 @@ Dispone de tres directorios:
 + Datos (para albergar los datos y/o resultados)
 
 # Tarea Viernes 16/08
-La documentacion con la respuesta fue colocada en la carptea de DocPDF, \url: https://github.com/MariaJo2211380/TareasCursos20B-2024.2/tree/main/DocPDF
+La documentacion con la respuesta fue colocada en la carptea de DocPDF, [aquí](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/tree/main/DocPDF)
