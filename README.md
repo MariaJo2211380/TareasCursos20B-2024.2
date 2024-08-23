@@ -22,4 +22,5 @@ La documentacion con la respuesta fue colocada en la carptea de DocPDF, [aquí](
 ----------------------------------------------------------------------------------------------------------
 
 ## Tarea Viernes 23/08
-La documentacion con la respuesta fue colocada en la carptea de DocPDF, [aquí]([https://github.com/MariaJo2211380/TareasCursos20B-2024.2/tree/main/DocPDF](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/blob/main/DocPDF/Taller%20%232%20Clasica.pdf)). 
+La documentacion con la respuesta fue colocada en la carptea de DocPDF, [aquí](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/tree/main/DocPDF). 
+
