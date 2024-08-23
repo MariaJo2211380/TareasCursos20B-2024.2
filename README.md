@@ -18,3 +18,8 @@ Las tareas y asignaciones dispone de tres directorios:
 
 ## Tarea Viernes 16/08
 La documentacion con la respuesta fue colocada en la carptea de DocPDF, [aquí](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/tree/main/DocPDF). Y el codigo correspondiente al inciso 2.b, se encuentra en la carpeta de Codigos, [aquí](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/tree/main/Codigos).
+
+----------------------------------------------------------------------------------------------------------
+
+## Tarea Viernes 23/08
+La documentacion con la respuesta fue colocada en la carptea de DocPDF, [aquí](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/tree/main/DocPDF). 
