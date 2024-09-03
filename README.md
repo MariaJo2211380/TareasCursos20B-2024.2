@@ -25,3 +25,9 @@ La documentacion con la respuesta fue colocada en la carptea de DocPDF, [aquí](
 ## Tarea Viernes 23/08
 La documentacion con la respuesta fue colocada en la carptea de DocPDF, [aquí](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/tree/main/DocPDF). 
 
+----------------------------------------------------------------------------------------------------------
+
+## Primera Asiganción 30/08
+La documentacion con la respuesta fue colocada en la carptea de DocPDF, [aquí](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/blob/main/DocPDF/Asignaci%C3%B3n_1.pdf). 
+Y el codigo correspondiente, se encuentra en la carpeta de Codigos, [aquí](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/blob/main/Codigos/Asignaci%C3%B3n1%20(1).ipynb).
+
