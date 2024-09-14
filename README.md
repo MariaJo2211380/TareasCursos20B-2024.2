@@ -31,3 +31,11 @@ La documentacion con la respuesta fue colocada en la carptea de DocPDF, [aquí](
 La documentacion con la respuesta fue colocada en la carptea de DocPDF, [aquí](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/blob/main/DocPDF/Asignaci%C3%B3n_1.pdf). 
 Y el codigo correspondiente, se encuentra en la carpeta de Codigos, [aquí](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/blob/main/Codigos/Asignaci%C3%B3n1%20(1).ipynb).
 Y la presentación para la asignación fue colocada en la capeta de DocPDF,[aquí](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/blob/main/DocPDF/Presentacio%CC%81n%20asignacio%CC%81n%201.pdf).  
+
+----------------------------------------------------------------------------------------------------------
+
+## Tarea Viernes 06/09 y 13/09
+La documentacion con la respuesta fue colocada en la carptea de DocPDF.
+
+Para el 06/09 [aquí](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/blob/main/DocPDF/Taller%20%233%20Clasica.pdf). 
+Para el 13/09 [aquí](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/blob/main/DocPDF/Taller%20%234%20Clasica.pdf). 
