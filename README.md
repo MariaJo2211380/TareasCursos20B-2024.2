@@ -39,3 +39,9 @@ La documentacion con la respuesta fue colocada en la carptea de DocPDF.
 
 Para el 06/09 [aquí](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/blob/main/DocPDF/Taller%20%233%20Clasica.pdf). 
 Para el 13/09 [aquí](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/blob/main/DocPDF/Taller%20%234%20Clasica.pdf). 
+----------------------------------------------------------------------------------------------------------
+
+## Tarea Viernes 18/10
+La documentacion con la respuesta fue colocada en la carptea de DocPDF, [aquí](https://github.com/MariaJo2211380/TareasCursos20B-2024.2/blob/main/DocPDF/taller18%3A10.pdf). 
+
+----------------------------------------------------------------------------------------------------------
